@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "448455482107",
+    "firebase_url": "https://breadymade-6418d.firebaseio.com",
+    "project_id": "breadymade-6418d",
+    "storage_bucket": "breadymade-6418d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448455482107:android:e4986ac5858171a1",
+        "android_client_info": {
+          "package_name": "ourteamyourteam.breadymade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448455482107-92flchr51jh9rklvjsj2kob9toqd4k2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ourteamyourteam.breadymade",
+            "certificate_hash": "130F0330C7893B69654FD067A0DE4B953E864D72"
+          }
+        },
+        {
+          "client_id": "448455482107-oe7s1s8ohdhmj0d5d7f5ajilllek00rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyDvvPnxPor14Cy42HWot4Jwl3BgpQP33Eg"}],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448455482107-oe7s1s8ohdhmj0d5d7f5ajilllek00rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

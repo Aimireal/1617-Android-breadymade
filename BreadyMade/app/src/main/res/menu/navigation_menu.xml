@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:icon="@mipmap/ic_home_white_24dp"
+        android:title="Home" />
+
+    <item android:id="@+id/nav_search"
+        android:icon="@mipmap/ic_search_white_24dp"
+        android:title="Search" />
+
+    <item android:id="@+id/nav_upload"
+        android:icon="@mipmap/ic_file_upload_white_24dp"
+        android:title="Upload" />
+
+    <item android:id="@+id/nav_picks"
+        android:icon="@mipmap/ic_shopping_basket_white_24dp"
+        android:title="Editor's Pick-nicks" />
+
+    <item android:id="@+id/nav_social"
+        android:icon="@mipmap/ic_share_white_24dp"
+        android:title="Social" />
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_white_24dp"
+        android:title="Settings" />
+
+</menu>
