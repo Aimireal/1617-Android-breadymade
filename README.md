@@ -1,6 +1,6 @@
 # 1617-Android-breadymade
 
-This application was created as part of Team Project for the first year of University, it was programmed by Dylan Hudson. This was made on behalf of his team as part of a demonstration of what the application ideas were and what it could do. As a result he reserves all rights and credit for the creation of this application.
+Created as part of Team Project for the first year of University, allows the user to upload/edit/remove recipes they created as well as supports images and a database. As of 2021 the firebase database is down due to inactivity on the project, so demonstration of the application is limited right now.
 
 **ourTeam > yourTeam;**
 - Dylan Hudson: Programming
